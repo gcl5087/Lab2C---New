@@ -46,6 +46,6 @@ int main(void) {
       letter = "Null";
    }
   
-    printf( "Your letter grade for CMPSC 131 is %s.\n", letter);
+    printf( "Your letter grade for CMPSC 131 is %s. \n", letter);
     return 0;
 }
